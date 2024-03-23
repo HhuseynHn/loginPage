@@ -1,0 +1,6 @@
++ 1. Email error show span teg
++ 2. Email error real time show
++ 3. Password error show span teg 
++ 4. Password error show real time
+5. social button hover
+6. sign btn hover
